@@ -1,6 +1,6 @@
 # Thesis Chapters
 
-Hello! These are my chapter-wise coding work done while pursuing my doctoral degree.
+Hello! These are the chapter-wise coding works done while pursuing my doctoral degree.
 
 My specialization is privacy of smart systems.
 The objectives were achieved through the following:
