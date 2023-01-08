@@ -12,7 +12,7 @@ cf.go_offline()
 cf.set_config_file(offline=False, world_readable=True)
 
 # reading crawled CVE & CAPEC data saved in this repo
-cve_url = 'https://github.com/plau51ble/ThesisChapters/blob/1700ab641690c3ac309c8326d0c5218771ac92eb/Chapter%205/data/CHIA_csv.csv'
+cve_url = 'https://github.com/plau51ble/ThesisChapters/blob/1700ab641690c3ac309c8326d0c5218771ac92eb/Chapter%205/data/CHIA_cve.csv'
 capec_url = 'https://github.com/plau51ble/ThesisChapters/blob/1700ab641690c3ac309c8326d0c5218771ac92eb/Chapter%205/data/CHIA_capec.csv'
 
 names = ['vendor_name', 'capec_count', 'tags', 'countermeasures']
